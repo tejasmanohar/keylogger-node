@@ -1,0 +1,22 @@
+{
+  "name": "keylogger-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasmanohar/keylogger-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejasmanohar/keylogger-node/issues"
+  },
+  "homepage": "https://github.com/tejasmanohar/keylogger-node#readme",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
